@@ -1,0 +1,34 @@
+body{
+background-size: cover;
+}
+
+h1{
+    margin :0;
+    font-size: 50px;
+}
+
+
+#btn_start,#number_obj,#status{
+font-size: 20px;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    background-color: aqua;
+    width: 100%;
+    text-align: center;
+    text-shadow: 2px 2px 2px green;
+    line-height: 1;
+    color: red;
+    font-size: 25px;
+    font-style: italic;
+
+}
+
+canvas{
+    border: 2px solid blue;
+    border-radius: 10px;
+    box-shadow: 3px 3px 6px  yellow;
+    margin-top: 100px;
+}
